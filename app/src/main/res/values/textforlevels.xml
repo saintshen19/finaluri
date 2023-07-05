@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name= "lvl1text0">ნოლი</string>
+    <string name= "lvl1text1">ერთი</string>
+    <string name= "lvl1text2">ორი</string>
+    <string name= "lvl1text3">სამი</string>
+    <string name= "lvl1text4">ოთხი</string>
+    <string name= "lvl1text5">ხუთი</string>
+    <string name= "lvl1text6">ექვსი</string>
+    <string name= "lvl1text7">შვიდი</string>
+    <string name= "lvl1text8">რვა</string>
+    <string name= "lvl1text9">ცხრა</string>
+
+
+
+
+</resources>
